@@ -13,7 +13,8 @@ const Tab_Data = [
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>Jsvascript</li>
-                <li>TailWind</li>
+                <li>Scss</li>
+                <li>TailWindCss</li>
             </ul>
         )
     },
