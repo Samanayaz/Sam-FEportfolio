@@ -1147,10 +1147,6 @@ body {
     flex-direction: row;
   }
 
-  .md\:flex-col-reverse {
-    flex-direction: column-reverse;
-  }
-
   .md\:gap-12 {
     gap: 3rem;
   }
